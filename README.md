@@ -4,9 +4,12 @@
 [codecov-url]: https://codecov.io/gh/mgthomas99/degrad
 [license-shield-url]: https://img.shields.io/github/license/mgthomas99/degrad.svg
 [license-url]: https://github.com/mgthomas99/degrad/blob/master/LICENSE
+[npm-shield-url]: https://img.shields.io/npm/v/degrad.svg
+[npm-url]: https://www.npmjs.com/package/degrad
 
 # degrad
 
+[![npm][npm-shield-url]][npm-url]
 [![CircleCI][circleci-shield-url]][circleci-url]
 [![CodeCov][codecov-shield-url]][codecov-url]
 [![license][license-shield-url]][license-url]
