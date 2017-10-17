@@ -1,0 +1,41 @@
+{
+  "name": "deg-rad",
+  "version": "1.0.0",
+  "description": "Degree-radian conversion",
+  "keywords": [
+    "conversion",
+    "convert",
+    "degrees",
+    "degree",
+    "deg",
+    "math",
+    "radians",
+    "radian",
+    "rad"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgthomas99/alex.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mgthomas99/alex.js/issues"
+  },
+  "author": "George Thomas",
+  "license": "MIT",
+  "main": "dist/commonjs/index.js",
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.0.4",
+    "@types/mocha": "^2.2.43",
+    "chai": "^4.1.2",
+    "editorconfig": "^0.14.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.2",
+    "mocha": "^4.0.1",
+    "typescript": "^2.5.3"
+  }
+}

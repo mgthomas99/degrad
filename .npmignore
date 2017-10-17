@@ -1,0 +1,8 @@
+src/
+test/
+*.log
+.editorconfig
+.gitignore
+gulpfile.js
+README.md
+tsconfig.json
