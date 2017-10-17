@@ -1,7 +1,7 @@
 {
-  "name": "deg-rad",
+  "name": "degrad",
   "version": "1.0.0",
-  "description": "Degree-radian conversion",
+  "description": "Angular unit conversion",
   "keywords": [
     "conversion",
     "convert",
@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mgthomas99/alex.js.git"
+    "url": "git+https://github.com/mgthomas99/degrad.git"
   },
   "bugs": {
-    "url": "https://github.com/mgthomas99/alex.js/issues"
+    "url": "https://github.com/mgthomas99/degrad/issues"
   },
   "author": "George Thomas",
   "license": "MIT",
