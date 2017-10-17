@@ -28,6 +28,7 @@
     "report": "nyc node_modules/mocha/bin/_mocha test/**/*.js",
     "watch": "gulp watch",
     "test": "npm-run-all \"build\" \"report\"",
+    "prepublish": "npm-run-all \"build\" \"test\"",
     "posttest": "codecov -f coverage/*.json -t 0215d34c-de12-41b9-a859-043a6b386bc1"
   },
   "devDependencies": {
