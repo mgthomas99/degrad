@@ -1,4 +1,15 @@
+[circleci-shield-url]: https://img.shields.io/circleci/project/github/mgthomas99/degrad.svg
+[circleci-url]: https://circleci.com/gh/mgthomas99/degrad
+[codecov-shield-url]: https://img.shields.io/codecov/c/github/mgthomas99/degrad.svg
+[codecov-url]: https://codecov.io/gh/mgthomas99/degrad
+[license-shield-url]: https://img.shields.io/github/license/mgthomas99/degrad.svg
+[license-url]: https://github.com/mgthomas99/degrad/blob/master/LICENSE
+
 # degrad
+
+[![CircleCI][circleci-shield-url]][circleci-url]
+[![CodeCov][codecov-shield-url]][codecov-url]
+[![license][license-shield-url]][license-url]
 
 Angular unit conversion between degrees, radians, and gradians.
 
@@ -19,8 +30,8 @@ care of invoking Gulp by executing `npm run build`. Both commands do exactly the
 same task internally.
 
 ```shell
-    npm run build // -> Build via NPM script
-    gulp // -> Build via Gulp script
+    npm run build // Build via NPM script
+    gulp // Build via Gulp script
 ```
 
 ### Functions
