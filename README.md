@@ -30,10 +30,10 @@ Degrad is a simple library that provides unit conversion between **deg**rees,
 
 ### Build
 
-`degrad` is built using Gulp, a task automation service. When building `degrad`,
-you can either invoke Gulp directly via the `gulp` command, or allow NPM to take
-care of invoking Gulp by executing `npm run build`. Both commands do exactly the
-same task internally.
+`degrad` is built using [Gulp](https://gulpjs.com/), a task automation service.
+When building `degrad`, you can either invoke Gulp directly via the `gulp`
+command, or allow NPM to take care of invoking Gulp by executing
+`npm run build`. Both commands do exactly the same task internally.
 
 ```shell
     npm run build   // Build via NPM script
@@ -42,7 +42,7 @@ same task internally.
 ### Usage
 
 `degrad` exposes a small library of functions for accurately converting between
-angular units, specifically degrees, radians, and gradians.
+degrees, radians, and gradians.
 
 ```ts
     import { expect } from "chai";
