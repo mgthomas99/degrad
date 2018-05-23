@@ -11,14 +11,15 @@
 
 [![Degrad][logo-image-url]][logo-url]
 
-# degrad
-
 [![npm][npm-shield-url]][npm-url]
 [![CircleCI][circleci-shield-url]][circleci-url]
 [![CodeCov][codecov-shield-url]][codecov-url]
 [![license][license-shield-url]][license-url]
 
-Angular unit conversion between degrees, radians, and gradians.
+# degrad
+
+Degrad is a library providing unit conversion between **deg**rees, **rad**ians,
+and **grad**ians.
 
 ## Usage
 
