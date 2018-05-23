@@ -9,15 +9,15 @@
 [npm-shield-url]: https://img.shields.io/npm/v/degrad.svg
 [npm-url]: https://www.npmjs.com/package/degrad
 
-[![# Degrad][logo-image-url]][logo-url]
+[![Degrad][logo-image-url]][logo-url]
 
 [![npm][npm-shield-url]][npm-url]
 [![CircleCI][circleci-shield-url]][circleci-url]
 [![CodeCov][codecov-shield-url]][codecov-url]
 [![license][license-shield-url]][license-url]
 
-Degrad is a library providing unit conversion between **deg**rees, **rad**ians,
-and **grad**ians.
+Degrad is a simple library that provides unit conversion between **deg**rees,
+**rad**ians, and **grad**ians.
 
 ## Usage
 
